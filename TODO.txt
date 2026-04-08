@@ -1,0 +1,4 @@
+Test running the kill command while the wombat is running a program.
+Make sure killswitch script keeps retrying to connect to wombat (robot has to start turned off).
+Odometry idea: Integrate gyro to find angle, and then use sin/cos to add the total distance moved from wheel encoders.
+  ^
